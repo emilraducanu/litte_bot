@@ -178,7 +178,9 @@ profondes,ondes
 humides,néréides
 divinités,beautés
 cour,jour
+fortune,neptune
 assurance,l’inconstance
+inébranlable,favorable
 hélas,pas
 effort,fort
 bergère,sévère
@@ -214,6 +216,10 @@ clartés,vantés
 asseoir,voir
 incomparable,inséparable
 vœux,feux
+doux,glougloux
+glougloux,jaloux
+remplie,mie
+videz-vous,jaloux
 garde,regarde
 cœur,voleur
 voleur,yeux
@@ -233,6 +239,7 @@ malato,disperato
 d’allegria,pazzia
 ridete,volete
 vicino,vino
+tabac,pourceaugnac
 su,monsù
 male,servitiale
 droit,endroit
@@ -556,6 +563,8 @@ dus,rendus
 proie,voie
 caresser,bercer
 nérine,assassine
+meure,heure
+heure,cœurs
 celées,dissimulées
 vieux,yeux
 mettable,désagréable
@@ -591,6 +600,7 @@ l’appui,aujourd’hui
 opprimée,confirmée
 serviteur,précepteur
 davantage,sage
+souvent,vent
 père,considère
 cœur,d’honneur
 répondre,confondre
@@ -884,7 +894,9 @@ non,bon
 soupçonne,pardonne
 désabusé,imposé
 hypocrite,quitte
+lecteur,serviteur
 accompagne,campagne
+d’innocents,médisants
 allé,dissimulé
 adresse,maîtresse
 rapports,transports
@@ -974,6 +986,7 @@ fois,trois
 suffisance,circonstance
 l’effort,fort
 dure,aventure
+sorti,ruberti
 civile,ville
 état,éclat
 laissées,trépassées
@@ -1011,7 +1024,7 @@ fonde,monde
 fois,crois
 visage,image
 habitude,rude
-dire,lumière
+rin,turin
 lumière,père
 égale,salle
 avoir,joie
@@ -1111,6 +1124,7 @@ profit,délit
 cervelle,éternelle
 balafré,coffré
 lui-même,stratagème
+hautement,honteusement
 cautionne,personne
 fuite,suite
 m’oblige,prodige
@@ -1194,6 +1208,7 @@ défigurée,considérée
 injurieux,furieux
 flèches,sèches
 sèches,d’arracher
+bagace,place
 cheveux,affreux
 murmure,d’aventure
 tempête,tête
@@ -1276,7 +1291,7 @@ profond,font
 flatterie,fourberie
 dessein,humain
 sauvage,envisage
-peint,dont
+nourris,maris
 fades,incartades
 pas,d’appas
 maladie,comédie
@@ -1343,6 +1358,9 @@ manières,lumières
 l’expose,chose
 défaut,faut
 plainte,feinte
+dame,flamme
+pompeux,langoureux
+style,facile
 faire,l’affaire
 morceau,beau
 mises,sottises
@@ -1495,6 +1513,7 @@ yeux,joyeux
 m’examine,chagrine
 affaire,manière
 idolâtre,théâtre
+fracas,has
 mine,fine
 flatter,disputer
 faciles,inutiles
@@ -2002,7 +2021,6 @@ d’assurer,parjurer
 parjure,imposture
 mouvement,jugement
 soustraits,traits
-facile,style
 accoutumée,opprimée
 pure,écriture
 garant,indifférent
@@ -2682,7 +2700,6 @@ père,imaginaire
 accablée,comblée
 zéphire,empire
 sœurs,douceurs
-souvent,vent
 zéphire,dédire
 largesses,caressses
 caressses,tendresses
@@ -2956,6 +2973,7 @@ relais,frais
 rapière,poulinière
 jument,compliment
 personne,sonne
+galeux,merveilleux
 prisées,brisées
 plaine,haleine
 beau,gaveau
@@ -2991,6 +3009,7 @@ introduit,bruit
 débite,mérite
 mérite,instruits
 latine,mine
+ès,caritidès
 dire,lire
 emploi,roi
 vous-même,extrême
@@ -3752,10 +3771,10 @@ philosophie,fie
 ennemi,demi
 capable,misérable
 alarmer,chômer
+extrême,t’aime
 heureux,cheveux
 aise,baise
 foi,toi
-heure,meure
 vérité,volonté
 marinette,l’interprète
 point,comment
@@ -3858,6 +3877,7 @@ l’issue,sue
 l’arrêter,contenter
 conférence,présence
 valère,plaire
+grand-chose,s’oppose
 événement,compliment
 attente,obligeante
 injustement,tendrement
@@ -3910,7 +3930,7 @@ conserver,arriver
 m’appelle,nouvelle
 annoncé,cassé
 troisième,l’aime
-nourri,vrai
+nourri,praeferri
 juré,assuré
 destine,doctrine
 cracher,prêcher
@@ -3925,6 +3945,7 @@ deux,fameux
 dites,vîtes
 besoin,témoin
 témoignage,usage
+bonos,peritos
 conteste,précepte
 précepte,peste
 doctement,assurément
@@ -3932,6 +3953,7 @@ t’emporte,sorte
 application,inflammation
 audience,silence
 jamais,vais
+poursuivre,ivre
 torture,conjure
 expresse,connaisse
 ôté,l’humanité
@@ -4054,6 +4076,7 @@ distraire,affaire
 rebuté,écouté
 nouvelle,d’elle
 quant-à-moi,toi
+museau,carreau
 fierté,emporté
 abuse,d’excuse
 place,d’audace
@@ -4118,11 +4141,14 @@ acoquiné,gros-rené
 ville,lucile
 d’entendre,pendre
 l’étonnement,commandement
-lucile,satisfaire
+faire,satisfaire
 cerveau,peau
+m’appelle,elle
 fonde,gronde
+justement,nullement
 cher,fer
 bière,manière
+pis,taillis
 jointe,pointe
 poltron,menton
 blessure,assure
@@ -4523,6 +4549,8 @@ sage,présage
 spirituelle,ruelle
 madame,réclame
 sublime,rime
+corbillon,met-on
+crème,extrême
 parler,filer
 marotte,sotte
 bête,honnête
@@ -4629,6 +4657,9 @@ venue,tenue
 tenue,l’ennui
 bénir,maintenir
 blessé,forcé
+damnée,étonnée
+bon,balcon
+obtenir,entretenir
 ruine,médecine
 d’âmes,trames
 conscience,assistance
@@ -4710,7 +4741,8 @@ vision,réflexion
 vitesse,s’intéresse
 aventure,sûre
 visage,passage
-c’est,ouvert
+importunez,nez
+répondu,défendu
 fenêtre,maître
 fierté,jeté
 petite,visite
@@ -4768,6 +4800,8 @@ fat,contrat
 présume,coutume
 grimace,face
 finir,venir
+trouves-tu,vertu
+sûre,j’endure
 mémoire,boire
 cotillon,échantillon
 l’entendre,prendre
@@ -5136,12 +5170,18 @@ audience,avance
 entêtement,galamment
 lire,fièvre
 magnifiquement,superbement
+magnifiquement,admirablement
 ennemie,endormie
 appartement,insolemment
 respirer,d’admirer
+l’âme,pâme
+admirable,impayable
 intérêts,caquets
 die,énergie
+tête,malhonnête
 eux,deux
+prie,die
+fièvre,vie
 mains,bains
 charmant,ravissement
 choses,roses
@@ -5149,10 +5189,12 @@ nouveau,beau
 lecture,figure
 lien,bien
 carrosse,bosse
+l’érudition,million
 amarante,rente
 prose,chose
 admirer,d’espérer
 amie,académie
+arrêté,traité
 l’idée,accommodée
 dépit,l’esprit
 futilités,clartés
