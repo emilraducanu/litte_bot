@@ -179,9 +179,9 @@ def send(event):
         if re.search(debut,msg.lower()):
         	res = random.choice(debut_ans) + " " + your_name + " !"
         elif re.search(cava,msg.lower()):
-          	res = random.choice(cava_ans) + " " + your_name + " ?"	
+          res = random.choice(cava_ans) + " " + your_name + " ?"	
         elif re.search(quiestu,msg.lower()):
-          	res = random.choice(quiestu_ans)
+          res = random.choice(quiestu_ans)
         elif re.search(qui_don,msg.lower()):
          	res = random.choice(qui_don_ans)
         elif re.search(tue,msg.lower()):
